@@ -18,7 +18,7 @@
 .env.test.local
 .env.production.local
 
-# Ignoring all files in these folders
+# Ignoring all files in these folders.
 .history
 
 npm-debug.log*
